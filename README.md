@@ -1,9 +1,9 @@
 ## Hi there, I'm Joshua! 😄
 
-🎓 Graduated in June 2024 with a bachelor's degree in Computer Engineering from Toronto Metropolitan University
-💻 I enjoy coding and learning about new technologies
-📧 Email: joshuanaraine24@gmail.com
-[Click here](https://www.linkedin.com/in/josh-naraine/) to connect with me on LinkedIn!
+🎓 Graduated in June 2024 with a bachelor's degree in Computer Engineering from Toronto Metropolitan University <br />
+💻 I enjoy coding and learning about new technologies <br />
+📧 Email: joshuanaraine24@gmail.com <br />
+[Click here](https://www.linkedin.com/in/josh-naraine/) to connect with me on LinkedIn! <br />
  
 <!--
 **jo52775/jo52775** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
