@@ -1,10 +1,26 @@
-## Hi there, I'm Joshua! 😄
+# Hi there, I'm Joshua! 👋
 
-🎓 Graduated in June 2024 with a bachelor's degree in Computer Engineering from Toronto Metropolitan University <br /><br />
-💻 I enjoy coding and learning about new technologies <br /><br />
-📧 Email: joshuanaraine24@gmail.com <br /><br />
-[Click here](https://www.linkedin.com/in/josh-naraine/) to connect with me on LinkedIn! <br /><br />
- 
+## About Me 😃
+🚀 I am seeking a new graduate position in software development where I can further develop my skills and contribute to impactful projects <br />
+🎓 Graduated from Toronto Metropolitan University with a bachelor's degree in Computer Engineering in 2024 <br />
+💻 My top skills are Python and Javascript, with hands-on experience in frameworks/technologies such as React, Express.js, and Flask  <br />
+💡 I enjoy learning about new software technologies and practices
+
+## Contact
+📧 **Email:** joshuanaraine24@gmail.com <br />
+🔗 **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/josh-naraine/)<br />
+
+## Recent Projects
+**"ResumAI" Resume Builder:** <br />
+* This is a resume builder application that allows users to create their ideal resumes with the power of AI. <br />
+* Repository Link: https://github.com/jo52775/Resume-Builder.git <br /><br />
+
+**Pokémon Guessing Game:** <br />
+* This is a Pokémon-inspired game that features engaging, user-friendly gameplay. <br />
+* Repository Link: https://github.com/jo52775/Pokemon-Guessing-Game.git <br /><br />
+
+
+
 <!--
 **jo52775/jo52775** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
