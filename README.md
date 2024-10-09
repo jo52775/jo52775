@@ -1,7 +1,7 @@
 # Hi there, I'm Joshua! 👋
 
 ## About Me 😃
-🚀 I am seeking a new graduate position in software development where I can further develop my skills and contribute to impactful projects <br />
+🚀 I am seeking a new graduate position where I can further develop my skills and contribute to impactful projects <br />
 🎓 Graduated from Toronto Metropolitan University with a bachelor's degree in Computer Engineering in 2024 <br />
 💻 My top skills are Python and Javascript, with hands-on experience in frameworks/technologies such as React, Express.js, and Flask  <br />
 💡 I enjoy learning about new software technologies and practices
