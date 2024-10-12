@@ -11,8 +11,9 @@
 🔗 **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/josh-naraine/)<br />
 
 ## Recent Projects
-**"ResumAI" Resume Builder:** <br />
-* This is a resume builder application that allows users to create their ideal resumes with the power of AI. <br />
+**"ResumAI" Resume Builder application:** <br />
+* This is a resume builder application that allows users to create their ideal resumes with the use of AI-generated content suggestions. 
+* **Explore the website here**: https://resumai-app.onrender.com/
 * Repository Link: https://github.com/jo52775/Resume-Builder.git <br /><br />
 
 **Pokémon Guessing Game:** <br />
